@@ -19,7 +19,6 @@ resu1 = Entry(app)
 resu2 = Entry(app)
 app.geometry("500x300")
 app.title("Ackermann funky generator")
-#ここにコードを書く
 label = ttk.Label(app,text='Ackermann funky generator\nアッカーマンアングル再現funky treesジェネレータ')
 label.pack()
 lab1 = ttk.Label(app,text='max steer angle 最大ステア角')
